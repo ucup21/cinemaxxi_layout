@@ -1,0 +1,8 @@
+#surefire_0
+#Sat Mar 21 14:55:53 ICT 2020
+maven.ext.class.path=C\:\\Program Files\\NetBeans-11.3\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+test=com.cinemaxxi.cinemaxxi_layout.services.TiketServiceTest
+basedir=C\:\\Users\\Yusup\\Documents\\NetBeansProjects\\cinemaxxi_layout
+user.dir=C\:\\Users\\Yusup\\Documents\\NetBeansProjects\\cinemaxxi_layout
+localRepository=C\:\\Users\\Yusup\\.m2\\repository
